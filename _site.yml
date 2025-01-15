@@ -1,9 +1,13 @@
-name: "my-website"
+name: "Formato_de_sanciones_|_RED-MC"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Formato de sanciones"
   left:
-    - text: "Home"
+    - text: "Guia"
       href: index.html
-    - text: "About"
+    - text: "Informacion"
       href: about.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

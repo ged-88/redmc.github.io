@@ -1,5 +1,25 @@
 ---
-title: "About This Website"
+title: "Informacion"
 ---
 
-More about this website.
+**REDMC** es un servidor de minecraft compatible con la version de Java y la version de Bedrock.
+
+**`IP:`** play.red-mc.net
+
+**`Puerto:`** 19132 **(Predeterminado)**
+
+------------------------------------------------------------------------
+
+REDES SOCIALES
+
+[![](images/360_F_837355966_9i3CSfzqhTEqWkRu2rcoBLWYIFsGuo6P.jpg){width="25"}](https://www.instagram.com/redmc.official?igsh=MWIzMmhxY2ZzNWFsMQ==)
+
+[**INSTAGRAM**](https://www.instagram.com/redmc.official?igsh=MWIzMmhxY2ZzNWFsMQ==)
+
+[![](images/tiktok-5962992_1280.webp){width="25"}](https://www.tiktok.com/@redmc.official?_t=ZM-8t620GZrtdm&_r=1)
+
+[**TIKTOK**](https://www.tiktok.com/@redmc.official?_t=ZM-8t620GZrtdm&_r=1 "TT")
+
+[![](images/clipboard-4029984014.webp){width="25"}](https://discord.gg/6Yr5amrv)
+
+[**DISCORD**](https://discord.gg/6Yr5amrv "DC")
