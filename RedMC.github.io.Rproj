@@ -14,3 +14,5 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+
+ProjectName: redmc.github.io
